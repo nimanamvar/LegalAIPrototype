@@ -1,0 +1,14 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore FAISS index files
+faiss_index/
