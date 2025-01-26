@@ -1,0 +1,3 @@
+What is a Gibberish Word Generator?
+A gibberish word generator is a tool that creates random, nonsensical words by combining syllables, letters, or sounds, often for fun or creativity.
+
