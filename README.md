@@ -1,0 +1,2 @@
+# LegalAIPrototype
+My portfolio project
